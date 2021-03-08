@@ -1,9 +1,0 @@
-Hello Everyone
-i have completed my task-1 of internship at The Sparks Foundation of Predict the percentage of an student based on the number of study hours..
-
-github : https://lnkd.in/gRfbVqS
-
-I hope you guys give me your valuable feedback.
-THANK YOU !!!.
-
-#gripdec20 #thesparksfoundation #datascience #GRIPDEC20 #businessanalytics #dataanalyst #MachineLearning #DeepLearning #ArtificialIntelligence
